@@ -76,7 +76,7 @@ function runProgram() {
     /// TEST PART C HERE ///
   /// UNCOMMENT the remaining commented lines and change the password1 and password2 strings to ensure your code is doing its job ///
 
-  let password1 = 'abc';
+  let password1 = 'def';
   let password2 = '456';
   
   console.log("Time to run the password generator so we can update the menu tomorrow.");
