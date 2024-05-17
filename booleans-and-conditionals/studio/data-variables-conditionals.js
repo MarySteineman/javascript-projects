@@ -1,4 +1,7 @@
 // Initialize Variables below
+const date = "Monday 2019-03-18"
+const time = "10:05:34 AM"
+
 
 // add logic below to verify total number of astronauts for shuttle launch does not exceed 7
 
