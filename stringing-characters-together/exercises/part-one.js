@@ -2,7 +2,7 @@ let num = 1001;
 let num2 = 1001.2
 
 //Returns 'undefined'.
-console.log(num.length);
+console.log("line 5:", num.length);
 
 
 //Use type conversion to print the length (number of digits) of an integer.
@@ -17,4 +17,10 @@ if (String(num).includes(".")) {
     console.log(String(num).length-1);
 } else {
     console.log(String(num).length);
+}
+
+if (String(num2).includes(".")) {
+    console.log(String(num2).length-1);
+} else {
+    console.log(String(num2).length);
 }
